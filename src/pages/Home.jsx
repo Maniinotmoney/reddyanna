@@ -54,7 +54,7 @@ const Home = () => {
             <Steps />
             <Blogs />
             <Registration />
-            <Login />
+            {/* <Login /> */}
             <BettingSteps />
             <AccessBanner />
             <Stats />
@@ -64,7 +64,7 @@ const Home = () => {
             <CustomerCare />
             <Deposit />
             <Withdrawal />
-            <MobileApp />
+            {/* <MobileApp /> */}
             <LeadingPlatform />
             <ExpertTeam />
             <GetID />
