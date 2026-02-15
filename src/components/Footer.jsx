@@ -14,7 +14,7 @@ const Footer = () => {
                             <li><a href="/services" style={{ color: 'inherit', textDecoration: 'none' }}><i class="fas fa-angle-double-right"></i> Services</a></li>
                             <li><a href="/platforms" style={{ color: 'inherit', textDecoration: 'none' }}><i class="fas fa-angle-double-right"></i> Platforms</a></li>
                             <li><a href="/blogs" style={{ color: 'inherit', textDecoration: 'none' }}><i class="fas fa-angle-double-right"></i> Blogs</a></li>
-                            <li><a href="/app-download" style={{ color: 'inherit', textDecoration: 'none' }}><i class="fas fa-angle-double-right"></i> App Download</a></li>
+                            {/* <li><a href="/app-download" style={{ color: 'inherit', textDecoration: 'none' }}><i class="fas fa-angle-double-right"></i> App Download</a></li> */}
                             <li><a href="/referral-code" style={{ color: 'inherit', textDecoration: 'none' }}><i class="fas fa-angle-double-right"></i> Referral Code</a></li>
                         </ul>
                     </div>
