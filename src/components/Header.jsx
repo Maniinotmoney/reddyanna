@@ -62,7 +62,7 @@ const Header = () => {
 
                     <Link to="/about-us" onClick={closeNav}>About Us</Link>
                     <Link to="/how-to-play" onClick={closeNav}>How to Play</Link>
-                    <Link to="/app-download" onClick={closeNav}>App</Link>
+                    {/* <Link to="/app-download" onClick={closeNav}>App</Link> */}
                     <Link to="/blogs" onClick={closeNav}>Blogs</Link>
                     {location.pathname === '/' && (
                         <>
